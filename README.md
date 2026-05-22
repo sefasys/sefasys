@@ -1,4 +1,4 @@
-### Hi, dear viewer! 👋
+### Hi there, visitor! 👋
 
 #### I do research about AI, LLM and Deep Learning. Also, coding for living!
 
