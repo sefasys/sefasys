@@ -8,5 +8,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafasefa6671)
 
 
-- ⚙️ I use daily: `.py`, `.java`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 💬 `ping` me about 
+- ⚙️ I use daily: `.py`, `.java`, `.cpp`, `.c`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 💬 You can `ping` me about anything via email 
