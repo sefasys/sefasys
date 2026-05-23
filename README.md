@@ -1,6 +1,6 @@
 ### Hi there, visitor! 👋
 
-#### I do research about AI, LLM and Deep Learning. Also, coding for living!
+#### I do research about AI, LLM and Deep Learning. Also, code for living!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sefasoysal)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sefasoysal)
