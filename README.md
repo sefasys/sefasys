@@ -2,7 +2,7 @@
 
 #### I do research about AI, LLM and Deep Learning. Also, code for living! 
 
-**Feel free to reach** `m.sefa.soysal@gmail.com`
+**Feel free to reach me at:** `m.sefa.soysal@gmail.com`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sefasoysal)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sefasoysal)
